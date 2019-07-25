@@ -1,2 +1,2 @@
 # FE-learning
-Front-end learning
+Front-end example
